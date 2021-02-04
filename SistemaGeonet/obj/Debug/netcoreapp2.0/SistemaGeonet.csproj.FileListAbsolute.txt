@@ -1,0 +1,47 @@
+C:\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.deps.json
+C:\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.json
+C:\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.dev.json
+C:\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.csprojAssemblyReference.cache
+C:\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.csproj.CoreCompileInputs.cache
+C:\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfoInputs.cache
+C:\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfo.cs
+C:\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.deps.json
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.json
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.dev.json
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.csproj.CoreCompileInputs.cache
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfoInputs.cache
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfo.cs
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\Users\Emperatriz\Desktop\4taIteracion\SistemaGeonetSrg\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.deps.json
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.json
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.dev.json
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.csprojAssemblyReference.cache
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfoInputs.cache
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfo.cs
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\Users\Sergio\Downloads\TP2 CALDAS\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.deps.json
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.json
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.runtimeconfig.dev.json
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\bin\Debug\netcoreapp2.0\SistemaGeonet.pdb
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.csprojAssemblyReference.cache
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.dll
+C:\Users\Sergio\Desktop\SistemaGeonet_Validado\SistemaGeonet\obj\Debug\netcoreapp2.0\SistemaGeonet.pdb
